@@ -1,7 +1,7 @@
 {
   "name": "bunyan-syslog",
   "description": "Syslog Stream for Bunyan",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Mark Cavage",
   "license": "MIT",
   "main": "./lib/index.js",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "assert-plus": "0.1.5",
-    "nan": "2.4.x"
+    "nan": "2.10.x"
   },
   "devDependencies": {
     "bunyan": "1.5.x",
